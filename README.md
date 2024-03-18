@@ -16,7 +16,7 @@
 
 
 
-NOTA: As principais linguagens não indicam meu nível de habilidade ou algo parecido, é uma métrica do github de quais linguagens eu tenho mais código, é um novo recurso do github-readme-stats .
+### NOTA: As principais linguagens não indicam meu nível de habilidade ou algo parecido, é uma métrica do github de quais linguagens eu tenho mais código, é um novo recurso do github-readme-stats .
 
                      
 <div>
@@ -39,7 +39,7 @@ NOTA: As principais linguagens não indicam meu nível de habilidade ou algo par
   
    
 
-  ##
+
 
          
 
