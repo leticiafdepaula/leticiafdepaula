@@ -27,5 +27,6 @@ NOTA: As principais linguagens não indicam meu nível de habilidade ou algo par
 
   ##
 
-         
+         ![snake gif](https://github.com/leticiafdepaula/leticiafdepaula/blob/output/github-contribution-grid-snake.gif)
+
           
