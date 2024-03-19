@@ -1,5 +1,5 @@
 ### Olá, eu sou a Leticia Ferreira! 
-- 🔭 Sou formada em gestão financeira e pós graduada em controladoria e finanças corporativas pela são judas, atuamente estou cursando Sistema de informação, realizei minha transição de carreira no ano de 2023 comecei fazendo cursos pela Udemy e gostei bastante da área, principalmente por ser uma área mais interna, achei compativel com o meu perfil. Estou estudando as seguintes linguagens: Java/Spring boot, Kotlin & angularJs.
+- 🔭 Conclui minha primeira formação em gestão financeira e minha pós graduada em controladoria e finanças corporativas pela são judas no ano de 2023, atuamente estou cursando Sistema de informação, realizei minha transição de carreira, comecei fazendo cursos pela Udemy e gostei bastante da área, principalmente por ser uma área mais interna, achei compativel com o meu perfil. Estou estudando as seguintes linguagens: Java/Spring boot, Kotlin & angularJs.
   
 - 🌱 Meu maior interesse é ser uma desenvolvedora de software full Stack.
 - 😄 Pronouns: Ela/Dela
