@@ -1,5 +1,5 @@
 ### Olá, eu sou a Leticia Ferreira! 
-- 🔭 Sou formada em gestão financeira e pós graduada em controladoria e finanças corporativas pela São Judas, atualmente estou estudando Sistema de Informação e trabalhando como programadora Full Stack com as seguintes linguagens: Java/Spring Boot, Angular, JSP, Kotlin e Swift. 
+- 🔭 Sou formada em gestão financeira e pós graduada em controladoria e finanças corporativas pela São Judas, atualmente estou estudando Sistema de Informação e trabalhando como programadora Full Stack com as seguintes linguagens: Java/Spring Boot, Angular, Kotlin. 
 - 🌱 Conhecimentos basicos em Cyber Security (OWASP, XSS, SQL INJECT) & AWS.
 - 😄 Pronouns: Ela/Dela
 
@@ -21,7 +21,6 @@
    <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> 
    <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
    <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
    <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />        
 </div>
 
