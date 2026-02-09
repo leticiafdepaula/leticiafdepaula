@@ -1,9 +1,8 @@
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/d85e8b81-c4b8-4e35-8ed0-ce1655d524d8" width="160" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/77d1494c-cfa2-4067-98e6-46b7a09596c9" width="175" alt="pompompurin" />
 </div>
 
 🍪 **About me**  🍪
-
 ### Hi, I'm Leticia Ferreira!🍮
 
 I am a Software Engineer focused on Backend development and building **robust and scalable APIs**. I hold a degree in Information Systems and a Postgraduate degree in Java Architecture and Development.
@@ -18,10 +17,7 @@ Currently, my work centers on the entire API lifecycle, using **Java, Spring Boo
 
   ##
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/leticiafdepaula?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
-
-<img src="https://github.com/user-attachments/assets/77d1494c-cfa2-4067-98e6-46b7a09596c9" alt="pompompurin"/>
-
-                  
+               
 <div>
     <img align="center" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
     <img align="center" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
