@@ -2,14 +2,13 @@
   <img src="https://github.com/user-attachments/assets/d85e8b81-c4b8-4e35-8ed0-ce1655d524d8" width="160" />
 </div>
 
-⭐️ **Sobre mim**
+🍪 **About me**  🍪
 
-### Olá, eu sou a Leticia Ferreira! 👋
-Sou Engenheira de Software com foco em Backend e no desenvolvimento de **APIs robustas e escaláveis**. Sou formada em Sistemas de Informação e pós-graduada em Arquitetura e Desenvolvimento Java.
-Atualmente, trabalho com foco no ciclo de vida de APIs, utilizando **Java, Spring Boot e Golang** para entregar soluções eficientes. Tenho grande interesse em como a tecnologia e a Inteligência Artificial podem ser aplicadas para criar ferramentas que geram impacto positivo na vida das pessoas.
+### Hi, I'm Leticia Ferreira!🍮
 
-🛠️ **Stack Técnica:** Java, Spring Boot, Golang, APIs RESTful e AWS.
- 
+I am a Software Engineer focused on Backend development and building **robust and scalable APIs**. I hold a degree in Information Systems and a Postgraduate degree in Java Architecture and Development.
+Currently, my work centers on the entire API lifecycle, using **Java, Spring Boot, and Golang** to deliver efficient, high-performance solutions. I have a deep interest in how technology and Artificial Intelligence can be applied to create tools that generate a positive impact on people's lives.
+
  <div>
 <a href="https://linkedin.com/in/leticiafdepaula" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/lehdpaula__/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
