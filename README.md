@@ -1,6 +1,4 @@
 ### Olá, eu sou a Leticia Ferreira! 
-"Profissional da área de Tecnologia da Informação com experiência no setor financeiro e forte foco no desenvolvimento de software em Java. Tenho formação em Gestão Financeira e Sistemas de Informação, além de uma pós-graduação em Controladoria e Finanças Corporativas, o que me proporciona uma visão estratégica e técnica, permitindo desenvolver soluções eficientes e alinhadas às necessidades do negócio.
-Atualmente, aplico minhas habilidades para otimizar processos e garantir a segurança da informação. Tenho experiência no desenvolvimento de sistemas corporativos e APIs utilizando Spring Boot, com integração eficiente e segurança reforçada por meio do Spring Security. Busco sempre implementar soluções que agreguem valor às empresas e otimizem o uso de recursos tecnológicos."
 
  <div>
 <a href="https://linkedin.com/in/leticiafdepaula" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -26,6 +24,7 @@ Atualmente, aplico minhas habilidades para otimizar processos e garantir a segur
 
   
    
+![giphy](https://github.com/user-attachments/assets/d85e8b81-c4b8-4e35-8ed0-ce1655d524d8)
 
 
 
