@@ -13,9 +13,7 @@ Currently, my work centers on the entire API lifecycle, using **Java, Spring Boo
 <a href = "mailto:leticiafereira150998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/users/leticiaferreira2124" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJqa2UxbGZ4dzNkdWM5bmI5cmduNDE4MDZ6MWVzd2liZ3Z5bjkzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7fcZZqEN6Ubq8/giphy.gif" width="175" alt="pompompurin" />
-</div>
+
 
   ##
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/leticiafdepaula?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
